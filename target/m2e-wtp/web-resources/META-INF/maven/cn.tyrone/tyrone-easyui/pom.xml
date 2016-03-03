@@ -36,7 +36,9 @@
 			<scope>${junit-version}</scope>
 		</dependency>
 	</dependencies>
+	
 	<build>
 		<finalName>tyrone-easyui</finalName>
 	</build>
+	
 </project>
